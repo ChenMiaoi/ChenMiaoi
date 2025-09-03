@@ -19,32 +19,12 @@
 </td></tr>
   
 <tr><td>  
-  
-<!-- wakatime 统计 -->  
-### 📊 WakaTime  
-  
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ChenMiaoi&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ChenMiaoi&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChenMiaoi&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>  
 
 ### 🔥 My Status
 
 <div align="center">
-  <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ChenMiaoi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img align="" height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ChenMiaoi&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
-
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ChenMiaoi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenMiaoi&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
 </td></tr>
 
 <tr><td>  
@@ -53,6 +33,14 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChenMiaoi&bg_color=010b00&color=99ffb7&line=e1fff1&point=bfffc2&area=true&hide_border=true"/>
 
+</td></tr>
+
+<tr><td> 
+
+<!--页面浏览量-->
+### Profile Reviewers
+
+<h3 align="center"><img src="https://count.getloli.com/@wolfsmith520-github?theme=booru-jaypee"/></h3>
 
 </td></tr>
 
