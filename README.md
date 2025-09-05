@@ -40,7 +40,8 @@
 <!--页面浏览量-->
 ### Profile Reviewers
 
-<h3 align="center"><img src="https://count.getloli.com/@wolfsmith520-github?theme=booru-jaypee"/></h3>
+<h3 align="center"><img src="https://count.getloli.com/@ChenMiaoi?theme=capoo-1"/></h3>
+<!-- <h3 align="center"><img src="https://count.getloli.com/@ChenMiaoi?theme=gelbooru"/></h3> -->
 
 </td></tr>
 
